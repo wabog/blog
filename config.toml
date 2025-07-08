@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "es-es"
+title = "Blog de Wabog"
+# Puedes ajustar la URL y el título a lo que necesites.
+
+# Las entradas principales están en la sección "posts"
+mainSections = ["posts"]
+
+# Ajustes de resumen y paginación
+paginate = 10
+summaryLength = 20
+
+[params]
+  author = "Autor"
